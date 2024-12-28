@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mock projects**
 
-- 🌱 I’m currently learning **Java, C++, C#**
+- 🌱 I’m currently learning **Go, C++, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GOTULBEK](https://github.com/GOTULBEK)
 
